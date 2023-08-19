@@ -1,0 +1,23 @@
+<products>
+  <product>
+    <id>P123</id>
+    <name>Smartphone</name>
+    <price>299.99</price>
+    <quantity>50</quantity>
+    <category>Electronics</category>
+  </product>
+  <product>
+    <id>C456</id>
+    <name>T-shirt</name>
+    <price>20.50</price>
+    <quantity>200</quantity>
+    <category>Clothing</category>
+  </product>
+  <product>
+    <id>B789</id>
+    <name>Programming Book</name>
+    <price>39.95</price>
+    <quantity>30</quantity>
+    <category>Books</category>
+  </product>
+</products>

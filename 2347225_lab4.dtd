@@ -1,0 +1,20 @@
+
+  <!ELEMENT products (product+)>
+  <!ELEMENT product (id, name, price, quantity, category)>
+  <!ELEMENT id (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+  <!ELEMENT quantity (#PCDATA)>
+  <!ELEMENT category (#PCDATA)>
+  <!ATTLIST product
+    xmlns CDATA #IMPLIED>
+  <!ATTLIST id
+    xmlns CDATA #IMPLIED>
+  <!ATTLIST name
+    xmlns CDATA #IMPLIED>
+  <!ATTLIST price
+    xmlns CDATA #IMPLIED>
+  <!ATTLIST quantity
+    xmlns CDATA #IMPLIED>
+  <!ATTLIST category
+    xmlns CDATA #IMPLIED>
